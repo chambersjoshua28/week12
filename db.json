@@ -1,0 +1,8 @@
+{
+    "courses": [
+      { "id": 1, "name": "Business 101", "professor": "Mr. Chambers", "credit_hours": 3 },
+      { "id": 2, "name": "Business 102", "professor": "Prof. Chambers", "credit_hours": 4 },
+      { "id": 3, "name": "Business 103", "professor": "Dr. Chambers", "credit_hours": 3 }
+    ]
+  }
+  

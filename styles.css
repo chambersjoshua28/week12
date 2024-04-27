@@ -1,0 +1,49 @@
+/* Custom CSS styles for Business Professor Website */
+
+/* Apply some basic styles to the body */
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f8f9fa; /* Light gray background */
+}
+
+/* Center the content of the container */
+.container {
+    max-width: 800px; /* Limit the width of the container */
+    margin: 50px auto; /* Center the container horizontally */
+    padding: 20px;
+    background-color: #fff; /* White background */
+    border-radius: 5px; /* Rounded corners */
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); /* Shadow effect */
+}
+
+/* Style the heading */
+h1 {
+    text-align: center;
+    color: #007bff; /* Blue color */
+}
+
+/* Style the table */
+.table {
+    width: 100%; /* Full width */
+    border-collapse: collapse; /* Collapse border spacing */
+    margin-top: 20px; /* Add some space above the table */
+}
+
+/* Style the table header */
+.table th {
+    background-color: #007bff; /* Blue color */
+    color: #fff; /* White color */
+    padding: 10px; /* Padding inside table header cells */
+    text-align: left; /* Align text to the left */
+}
+
+/* Style the table rows */
+.table td {
+    border: 1px solid #ddd; /* Add border to table cells */
+    padding: 10px; /* Padding inside table cells */
+}
+
+/* Style alternating rows with different background color */
+.table tbody tr:nth-child(even) {
+    background-color: #f2f2f2; /* Light gray background */
+}
